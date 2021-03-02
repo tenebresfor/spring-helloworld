@@ -6,6 +6,7 @@
 
     <groupId>ru.javamentor</groupId>
     <artifactId>spring-helloworld</artifactId>
+<!--    <artifactId>spring-cat</artifactId>-->
     <version>1.0-SNAPSHOT</version>
 
     <properties>
